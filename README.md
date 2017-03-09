@@ -1,2 +1,2 @@
 # Python-Course-Project
-edge detection, feature detection and matching, panorama, etc
+cv2, numpy, scipy are used to do edge detection, feature detection and matching, panorama, etc.
